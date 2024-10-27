@@ -1,5 +1,4 @@
 # lua-parse
-# lua-parse
 
 Lua Parser written in pure C++
 
